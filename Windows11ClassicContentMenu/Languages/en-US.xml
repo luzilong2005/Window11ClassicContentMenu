@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Language>
+	<Text Key="Window_Title">Windows11 Classic Content Menu</Text>
+	<Text Key="Button_ClassicStyle">Use Windows10 classic style</Text>
+	<Text Key="Button_DefaultStyle">Use Windows11 default style</Text>
+	<Text Key="Button_RestartExplorer">Restart explorer</Text>
+	<Text Key="TopMenu_Help">Help</Text>
+	<Text Key="TopMenuItem_About">About</Text>
+	<Text Key="TopMenuItem_LogDirectory">Log directory</Text>
+	<Text Key="TopMenuItem_LogClear">Clear log</Text>
+</Language>
